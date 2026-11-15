@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Política de Privacidad - Chavelita Pedidos</title>
+</head>
+<body style="font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 20px;">
+    <h1>Política de Privacidad de Chavelita Pedidos</h1>
+    <p><strong>Última actualización:</strong> Noviembre 2026</p>
+    <p><strong>Chavelita Pedidos</strong> (desarrollada por AntharesGold) respeta la privacidad de sus usuarios. Esta aplicación se utiliza para la gestión y registro de pedidos.</p>
+    <h2>1. Datos que recopilamos</h2>
+    <p>La aplicación puede recopilar datos básicos necesarios para el funcionamiento del servicio, como nombre, correo electrónico o detalles de los pedidos realizados, almacenados de forma segura mediante Supabase.</p>
+    <h2>2. Uso de la información</h2>
+    <p>Los datos recopilados se utilizan exclusivamente para procesar pedidos, autenticar usuarios y mejorar el servicio. No vendemos ni compartimos información personal con terceros.</p>
+    <h2>3. Contacto y eliminación de datos</h2>
+    <p>Si tienes dudas o deseas solicitar la eliminación de tus datos, puedes escribirnos a: <strong>anthareslv@gmail.com</strong>.</p>
+</body>
+</html>
